@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<script type="text/javascript">
+    qString = "?clientid=" + "20&usertoken=11XYZWTW";
+    url = 'http://localhost:4688/RTPortfolioStatus';
+    var eventSource = new EventSource(url + qString);
+// Handler for events without an event type specified
+    eventSource.onmessage = (e) => {
+        console.log(e.data);
+  // Do something - event data etc will be in e.data
+    };
+  
+    eventSource.addEventListener("event name", (event) => {
+        console.log(JSON.parse(event.data));
+    });
+
+</script>

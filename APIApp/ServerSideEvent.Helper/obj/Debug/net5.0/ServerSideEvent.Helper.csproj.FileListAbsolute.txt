@@ -1,0 +1,12 @@
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\bin\Debug\net5.0\ServerSideEvent.Helper.deps.json
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\bin\Debug\net5.0\ServerSideEvent.Helper.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\bin\Debug\net5.0\ref\ServerSideEvent.Helper.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\bin\Debug\net5.0\ServerSideEvent.Helper.pdb
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\obj\Debug\net5.0\ServerSideEvent.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\obj\Debug\net5.0\ServerSideEvent.Helper.AssemblyInfoInputs.cache
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\obj\Debug\net5.0\ServerSideEvent.Helper.AssemblyInfo.cs
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\obj\Debug\net5.0\ServerSideEvent.Helper.csproj.CoreCompileInputs.cache
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\obj\Debug\net5.0\ServerSideEvent.Helper.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\obj\Debug\net5.0\ref\ServerSideEvent.Helper.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\obj\Debug\net5.0\ServerSideEvent.Helper.pdb
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Helper\obj\Debug\net5.0\ServerSideEvent.Helper.csproj.AssemblyReference.cache

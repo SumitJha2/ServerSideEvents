@@ -1,0 +1,15 @@
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\bin\Debug\net5.0\ServerSideEvent.Business.deps.json
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\bin\Debug\net5.0\ServerSideEvent.Business.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\bin\Debug\net5.0\ref\ServerSideEvent.Business.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\bin\Debug\net5.0\ServerSideEvent.Business.pdb
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ServerSideEvent.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ServerSideEvent.Business.AssemblyInfoInputs.cache
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ServerSideEvent.Business.AssemblyInfo.cs
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ServerSideEvent.Business.csproj.CoreCompileInputs.cache
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ServerSideEvent.Business.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ref\ServerSideEvent.Business.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ServerSideEvent.Business.pdb
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\bin\Debug\net5.0\ServerSideEvent.Helper.dll
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\bin\Debug\net5.0\ServerSideEvent.Helper.pdb
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ServerSideEvent.Business.csproj.CopyComplete
+D:\Pinnakl\ServerSideEventPoc\ServerSideEvent.Business\obj\Debug\net5.0\ServerSideEvent.Business.csproj.AssemblyReference.cache

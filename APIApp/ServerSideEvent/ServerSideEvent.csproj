@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.WebApiCompatShim" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServerSideEvent.Business\ServerSideEvent.Business.csproj" />
+    <ProjectReference Include="..\ServerSideEvent.Helper\ServerSideEvent.Helper.csproj" />
+  </ItemGroup>
+
+</Project>
